@@ -1,0 +1,71 @@
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta name="og:title" content="Pwned By? SynixCyberCrimeMY">
+	<meta name="og:description" content="Wh00pz?? #Payback !!">
+	<link rel="shorcut icon" href="https://i.ibb.co/GW89tFB/file-2215.jpg">
+	<link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Rubik Glitch">
+	<title>Wh00pz?! Pwned By SynixCyberCrimeMY!</title>
+</head>
+<body>
+	<style type="text/css">
+		body {background-position: center;			background-size: center; background: url(https://i.gifer.com/origin/8a/8a4b5e12f3abed35b73c528c02ad5dd0.gif); background-position: center; background-repeat: no-repeat; background-size: cover; } 
+			@font-face {
+				font-family: DedSec;
+				src: url(https://watchdogsfont.com/font/HACKED_Title.ttf);
+				color: #FFFFFF;
+			}
+		body,a:hover { 
+			cursor: url(https://cur.cursors-4u.net/symbols/sym-1/sym46.cur),progress!important;
+		}
+		#wrapper {
+			text-align: center;
+		}
+		DedSec1 {
+			font-family: courier;
+			color: #FFFFFF;
+		}
+			@font-face {
+				font-family: DedSec1;
+				src: url(https://watchdogsfont.com/font/PixelOperatorMono.ttf);
+				color: #FFFFFF;
+			}
+		red {
+			color: red;
+		}
+	</style>
+	<script>
+ 	
+ function playSound(){var audio=document.querySelector("audio")
+ audio.play()}
+ 
+ </script>
+
+<body onclick="playSound()" onemouseover="playSound()">
+  <div class="bg">
+   
+<audio src="https://l.top4top.io/m_3963l2p650.mp3" type="audio/mp3"></audio>
+
+</script>
+</br></br>
+	<div id="wrapper">
+	        <center>
+	            <img src="https://i.ibb.co/GW89tFB/file-2215.jpg" width="200px"></br>
+	<font face="DedSec1" size="6" color="#FFFFFF">Stamped By<red> SynixCyberCrimeMY</font>
+	<br>
+	<b>
+	<font face="DedSec1" size="3" color="#FFFFFF">@><red>SynixCyberCrimeMYW4sH3re!</red><br> 
+		Greetings To Government Of Indonesia, We Are SynixCybetCrimeMY<br>
+		We will not remain silent in the face of actions carried out by individuals from your country against Malaysia and its national interests.</br> 
+		Recently, we became aware of an alleged cyberattack targeting one of Malaysia's banking institutions, Bank Rakyat, reportedly involving individuals from Indonesia.<br> 
+We consider this matter a serious concern and strongly condemn any actions that threaten the cybersecurity and digital security of Malaysian institutions.<br>
+	 We expect the relevant authorities to take this matter seriously and ensure that a proper investigation is conducted. </br><font color="red">
+        Our nation's cybersecurity and sovereignty must be respected.<br></font><br>
+        Special Greetz To: <br>
+			<font color="gold">$ All Members SynixCyberCrimeMY $ 	<br><br>
+	</font>
+	</b>
+</div>
+</body>
+</html>
